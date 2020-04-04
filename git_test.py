@@ -14,6 +14,8 @@ import numpy as np
 
 ''' edit on 2020/04/04 on github web test git fetch'''
 
+''' edit on 2020/04/04 on github web test git merge'''
+
 
 '''
     bboxes:         bbox locations list (n, 4)
