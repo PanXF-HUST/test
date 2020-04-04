@@ -2,6 +2,7 @@ import torch
 import torchvision
 import numpy as np
 
+'''edit on 2020/04/04 for test'''
 
 '''
     bboxes:         bbox locations list (n, 4)
